@@ -2,3 +2,8 @@
     font-family: "Short Baby";
     src: url("ShortBaby-Mg2w.ttf") format("truetype");
   }
+  .sedan-sc-regular {
+  font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
